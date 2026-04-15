@@ -7,7 +7,7 @@ The command runs normally in your terminal (with full stdin/stdout passthrough),
 ## Install
 
 ```
-go install github.com/jason/bashcapture@latest
+go install github.com/Jason-Hendry/bashcapture@latest
 ```
 
 Or build from source:
